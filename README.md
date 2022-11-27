@@ -1,4 +1,2 @@
-# Sequence Alignment Algorithms
-Current: Needleman-Wunsch Algo for global alignment
-
-Working On Rn: BLAST algorithm for local alignmnet
+# Global Sequence Alignment
+Using the Needleman-Wunsch Algorithm for global sequnece alignment 
